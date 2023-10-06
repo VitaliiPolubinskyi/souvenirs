@@ -1,0 +1,1 @@
+souvenirName = , manufacturerName = V, manufacturerCountry = B, date = , price = 848

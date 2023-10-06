@@ -1,0 +1,10 @@
+
+souvenirName = A, manufacturerName = R, manufacturerCountry = X, date = , price = 848
+souvenirName = B, manufacturerName = S, manufacturerCountry = Y, date = , price =
+souvenirName = C, manufacturerName = B, manufacturerCountry = , date = 1990-11-08, price =
+
+
+souvenirName = D, manufacturerName = V, manufacturerCountry = B, date = , price = 300
+souvenirName = D, manufacturerName = V, manufacturerCountry = B, date = , price = 300
+souvenirName = B, manufacturerName = S, manufacturerCountry = , date = , price =
+

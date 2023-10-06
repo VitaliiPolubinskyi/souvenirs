@@ -1,0 +1,5 @@
+souvenirName = C, manufacturerName = V, manufacturerCountry = B, date = , price = 848
+souvenirName = B, manufacturerName = S, manufacturerCountry = B, date = 1125-11-11, price =
+souvenirName = B, manufacturerName = S, manufacturerCountry = B, date = 1125-11-11, price =
+
+souvenirName = D, manufacturerName = S, manufacturerCountry = , date = , price = 300
